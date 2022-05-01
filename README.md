@@ -5,6 +5,8 @@ The A* algorithm will be used to create an AI to play game 43 of the gvgai compe
 
 In addition, an automaton will be implemented in the avatar, in order to win the game easily. 
 
+My implemented code is located in folder src/pablocaceres982/
+
 ![alt text](https://github.com/PabloCaceresRamos/A_Star-in-Cross-Road-Game/blob/1fda519e50846ec9515fdb27219120382948a5e3/Prictures/juego.png)
 
 ![Watch the video](https://github.com/PabloCaceresRamos/A_Star-in-Cross-Road-Game/blob/1fda519e50846ec9515fdb27219120382948a5e3/Video/video.mkv)
